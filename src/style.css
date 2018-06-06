@@ -1,0 +1,31 @@
+table {
+  border: 1px solid #ddd;
+}
+
+td,
+tr,
+th {
+  padding-right: 10px;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.fa-trash-alt {
+  color: red;
+  padding-left: 10px;
+}
+
+input:read-only {
+  border: none;
+  cursor: default;
+}
+
+button {
+  display: block;
+  margin-bottom: 10px;
+  background-color: coral;
+  padding: 5px;
+  color: white;
+  border: none;
+}

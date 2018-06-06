@@ -1,2 +1,0 @@
-# SimpleEditableGrid
-Created with CodeSandbox
